@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm sahil parmar</h1>
 <h3 align="center">A passionate Electronic Engineer from India , VLSI Enthusiast</h3>
 
-- 🔭 I’m currently working on [FPGA vending machine](https://github.com/SAHIL-3108/Vending_Machine_Verilog_FPGA)
+- 🔭 I’m currently working on **SHA-256-in-FPGA-RTL**
 
 - 🌱 I’m currently learning **VLSI ASIC Design**
 
@@ -22,6 +22,7 @@
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahil-3108&show_icons=true&locale=en&layout=compact" alt="sahil-3108" /></p>
+
 
 # Implementing-a-Compact-SHA-256-in-FPGA-RTL
 Compact and efficient implementation of the SHA-256 cryptographic hash algorithm in FPGA RTL. This repository includes Verilog-based RTL code optimized for FPGA resources, testbenches for functional verification, and synthesis reports. Ideal for secure and high-performance applications in cryptographic systems
