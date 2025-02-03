@@ -50,7 +50,8 @@ This repository contains a resource-efficient implementation of the **SHA-256 cr
    ```bash
    git clone https://github.com/yourusername/fpga-rtl-sha256.git
    cd fpga-rtl-sha256
-# Example for ModelSim
-vsim -do sha256_tb.do
+
+
+
 
 Would you like help drafting a `design_specification.md` or creating testbenches for the project?
